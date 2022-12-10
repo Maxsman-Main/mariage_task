@@ -1,0 +1,15 @@
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.csproj.AssemblyReference.cache
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.AssemblyInfoInputs.cache
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.AssemblyInfo.cs
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\bin\Debug\net6.0\MariageTask.exe
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\bin\Debug\net6.0\MariageTask.deps.json
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\bin\Debug\net6.0\MariageTask.runtimeconfig.json
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\bin\Debug\net6.0\MariageTask.dll
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\bin\Debug\net6.0\MariageTask.pdb
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.dll
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\refint\MariageTask.dll
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.pdb
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\MariageTask.genruntimeconfig.cache
+C:\Users\NITRO\RiderProjects\MariageTask\MariageTask\obj\Debug\net6.0\ref\MariageTask.dll
